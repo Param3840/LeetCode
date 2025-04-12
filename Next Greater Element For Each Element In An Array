@@ -1,0 +1,23 @@
+Next Greater Element For Each Element In An Array
+
+public class NextGreaterElementForEachElementInAnArray {
+    public static int[] next(int []arr){
+        int left=0;
+        int right=1;
+
+        int[] ans=new int[arr.length];
+        while (right< arr.length){
+            if (left<right){
+                ans= new int[]{arr[right]};
+            }
+            if (right== arr.length){
+                return new int[]{-1};
+            }
+        }
+        return ans;
+    }
+    public static void main(String[] args) {
+        int[]arr={1,2,3,4};
+        System.out.println(next(arr));
+    }
+}
