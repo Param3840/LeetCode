@@ -1,0 +1,58 @@
+HERE THE CODE FOR ALLOCATE BOOK 
+WE CAN ALSO USE THE SAME TECHNIQUE AND CODE FOR THE PAINTER PARTITION AND SPLIT ARRAY LARGEST SUM PROBLEMS.
+
+
+public class AllocateBook {
+    public static int findPages(int[]arr,int n,int m){
+        if (m>n){
+            return -1;
+        }
+        int low=arr[0];
+        int high=0;
+
+        for (int i=0;i<n;i++){
+            low=Math.min(low,arr[i]);
+            high=high+arr[i];
+        }
+        int result=-1;
+        while (low<=high){
+            int mid=low+(high-low)/2;
+            if (isPos(arr,n,m,mid)){
+                result=mid;
+                high=mid-1;
+            }
+            else {
+                low=mid+1;
+            }
+        }
+        return result;
+    }
+    public static boolean isPos(int[]arr,int n,int m,int maxPages){
+        int stCount=1;
+        int pageSum=0;
+
+        for (int i=0;i<n;i++){
+            if (arr[i]>maxPages){
+                return false;
+            }
+            if (pageSum+arr[i]>maxPages) {
+                stCount++;
+                pageSum = arr[i];
+
+                if (stCount > m) {
+                    return false;
+                }
+            }
+            else {
+                pageSum = pageSum + arr[i];
+            }
+        }
+        return true;
+    }
+    public static void main(String[] args) {
+        int[]arr={25,46,28,49,24};
+        int n=5;
+        int m=4;
+        System.out.println(findPages(arr,n,m));
+    }
+}
