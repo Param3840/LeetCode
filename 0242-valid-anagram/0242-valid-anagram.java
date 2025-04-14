@@ -17,8 +17,19 @@ class Solution {
             return false;
         }
         HashMap<Character,Integer> mp1=freq(s);
-        HashMap<Character,Integer> mp2=freq(t);
-
-        return mp1.equals(mp2);
-    }
-}
+        for(int i=0;i<t.length();i++){
+            Character ch=t.charAt(i);
+            if(!mp1.containsKey(ch)){
+                return false;
+            }
+            int curr=mp1.get(ch);
+            mp1.put(ch,curr-1);
+        }
+        for(Integer i : mp1.values()){
+            if(i!=0){
+                return false;
+            }
+           
+        }
+         return true;
+}}
