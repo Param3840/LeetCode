@@ -1,18 +1,18 @@
 class Solution {
       public static void printArray(int[]arr){
-        for (int i=0;i< arr.length;i++){
-            System.out.print(arr[i]+" ");
-        }
-    }
-    public int[] twoSum(int[] nums, int target) {
-        for (int i=0;i<nums.length;i++){
-            for (int j=i+1;j<nums.length;j++){
-                if (nums[i]+nums[j]==target){
-                    return new int[]{i,j};
-                }
+        int[] ans={-1};
+        HashMap<Integer,Integer> mp=new HashMap<>();
+        for (int i=0;i<arr.length;i++){
+            int partner=target-arr[i];
+            if (mp.containsKey(partner)){
+                ans=new int[]{i,mp.get(partner)};
+                return ans;
+            }
+            else {
+                mp.put(arr[i],i);
             }
         }
-        return new int[]{}; 
+        return  ans;
     }
     public static void main(String[]args){
         int[]arr={2,7,11,15};
