@@ -10,20 +10,35 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        Stack<Integer> st=new Stack<>();
-        ListNode temp=head;
-
-        while(temp!=null){
-            st.push(temp.val);
-            temp=temp.next;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast.next!=null && fast.next.next != null){
+            slow=slow.next;
+            fast=fast.next;
         }
-        temp=head;
-        while(temp!=null){
-            if(temp.val!=st.pop()){
-                return false;
-            }
-            temp=temp.next;
+        ListNode temp=reverseList(slow.next);
+        slow.next=temp;
+        ListNode p1=head;
+        ListNode p2=slow.next;
+
+        while(p2!=null){
+            if(p1.val != p2.val) return false;
+            p1=p1.next;
+            p2=p2.next;
         }
         return true;
+    }
+    public ListNode reverseList(ListNode head) {
+        ListNode curr=head;
+        ListNode prev=null;
+        ListNode agla=null;
+
+        while(curr !=null){
+            agla=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=agla;
+        }
+        return prev;
     }
 }
