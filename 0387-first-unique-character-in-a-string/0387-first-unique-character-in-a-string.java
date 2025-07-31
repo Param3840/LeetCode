@@ -1,18 +1,15 @@
 class Solution {
     public int firstUniqChar(String s) {
-        char[] ch=s.toCharArray();
-        for(int i=0;i<ch.length;i++){
-            boolean isUni=true;
-            for(int j=0;j<ch.length;j++){
-                if(i!=j && ch[i]==ch[j]){
-                    isUni=false;
-                    break;
-                }
-            }
-        if(isUni){
-            return i;
-        } 
-    }
+    HashMap<Character,Integer> mp=new HashMap<>();
+     for (int i=0;i<s.length();i++){
+         Character ch=s.charAt(i);
+         mp.put(ch,mp.getOrDefault(ch,0)+1);
+     }
+     for (int i=0;i<s.length();i++){
+         if (mp.get(s.charAt(i))==1){
+             return i;
+         }
+     }
      return -1;
 }
 }
