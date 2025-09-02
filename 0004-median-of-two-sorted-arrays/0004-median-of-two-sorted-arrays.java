@@ -1,46 +1,36 @@
-import java.util.Arrays;
-
 class Solution {
-    public static int[] merged(int[] arr1, int[] arr2) {
-        int[] mergedArray = new int[arr1.length + arr2.length];
-        int index = 0;
-
-        for (int i = 0; i < arr1.length; i++) {
-            mergedArray[index++] = arr1[i];
-        }
-
-        for (int i = 0; i < arr2.length; i++) {
-            mergedArray[index++] = arr2[i];
-        }
-
-        Arrays.sort(mergedArray);
-        return mergedArray;
-    }
-
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] mergedArray = merged(nums1, nums2);
-
-        int n = mergedArray.length;
-        if (n % 2 == 0) {
-            return (mergedArray[n / 2 - 1] + mergedArray[n / 2]) / 2.0;
-        } else {
-            return mergedArray[n / 2];
+        
+        if (nums1.length > nums2.length) {
+            return findMedianSortedArrays(nums2, nums1);
         }
-    }
-}
-
-public class Main {
-    public static void main(String[] args) {
-        Solution solution = new Solution();
         
-        // Example arrays
-        int[] arr1 = {1, 3};
-        int[] arr2 = {2};
+        int n1 = nums1.length;
+        int n2 = nums2.length;
+        int low = 0, high = n1;
         
-        // Call the findMedianSortedArrays method
-        double ret = solution.findMedianSortedArrays(arr1, arr2);
-        
-        // Print the result (median)
-        System.out.println("Median: " + ret);  // Output should be 2.0
+        while (low <= high) {
+            int cut1 = (low + high) / 2;
+            int cut2 = (n1 + n2 + 1) / 2 - cut1;
+            
+            int left1 = (cut1 == 0) ? Integer.MIN_VALUE : nums1[cut1 - 1];
+            int left2 = (cut2 == 0) ? Integer.MIN_VALUE : nums2[cut2 - 1];
+            
+            int right1 = (cut1 == n1) ? Integer.MAX_VALUE : nums1[cut1];
+            int right2 = (cut2 == n2) ? Integer.MAX_VALUE : nums2[cut2];
+            
+            if (left1 <= right2 && left2 <= right1) {
+                if ((n1 + n2) % 2 == 0) {
+                    return (Math.max(left1, left2) + Math.min(right1, right2)) / 2.0;
+                } else {
+                    return Math.max(left1, left2);
+                }
+            } else if (left1 > right2) {
+                high = cut1 - 1;
+            } else {
+                low = cut1 + 1;
+            }
+        }
+        return 0.0;
     }
 }
