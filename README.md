@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Param3840/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Param3840/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Param3840/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -14,4 +15,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Param3840/LeetCode/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Param3840/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Param3840/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
