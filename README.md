@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/Param3840/LeetCode/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/Param3840/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/Param3840/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Param3840/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/Param3840/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
