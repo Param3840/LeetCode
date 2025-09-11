@@ -18,6 +18,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Param3840/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Param3840/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Param3840/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Param3840/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Param3840/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Param3840/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Param3840/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
