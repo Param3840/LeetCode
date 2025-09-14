@@ -21,6 +21,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Param3840/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Param3840/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2737-row-with-maximum-ones](https://github.com/Param3840/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Param3840/LeetCode/tree/master/0040-combination-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [2737-row-with-maximum-ones](https://github.com/Param3840/LeetCode/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
