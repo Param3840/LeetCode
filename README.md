@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Param3840/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Param3840/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Param3840/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -92,4 +93,8 @@
 | [0074-search-a-2d-matrix](https://github.com/Param3840/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Param3840/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2737-row-with-maximum-ones](https://github.com/Param3840/LeetCode/tree/master/2737-row-with-maximum-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
