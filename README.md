@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Param3840/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Param3840/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -144,4 +146,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Param3840/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Param3840/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Param3840/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
