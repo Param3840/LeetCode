@@ -140,6 +140,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Param3840/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Param3840/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Param3840/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Param3840/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,4 +151,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Param3840/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Param3840/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
