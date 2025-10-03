@@ -23,6 +23,9 @@ class Solution {
                 return false;
             }
             int curr=mp.get(ch);
+            if(curr==0){
+                return false;
+            }
             mp.put(ch,curr-1);
         }
         return true;
