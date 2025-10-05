@@ -71,6 +71,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Param3840/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Param3840/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Param3840/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0838-design-linked-list](https://github.com/Param3840/LeetCode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Param3840/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0838-design-linked-list](https://github.com/Param3840/LeetCode/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
