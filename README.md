@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Param3840/LeetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Param3840/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Param3840/LeetCode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Param3840/LeetCode/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/Param3840/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Param3840/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Param3840/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
