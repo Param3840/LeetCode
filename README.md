@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/Param3840/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Param3840/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Param3840/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Param3840/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Param3840/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Param3840/LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -120,6 +122,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Param3840/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Union Find
 |  |
 | ------- |
