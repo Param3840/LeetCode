@@ -201,4 +201,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Param3840/LeetCode/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Param3840/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
