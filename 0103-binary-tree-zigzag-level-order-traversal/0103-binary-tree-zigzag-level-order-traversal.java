@@ -28,7 +28,7 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         if (root == null) return ans;
 
-        int h = height(root); // already returns correct height (starting from 1)
+        int h = height(root); 
         for (int i = 1; i <= h; i++) {
             List<Integer> levelList = new ArrayList<>();
             if (i % 2 != 0)
