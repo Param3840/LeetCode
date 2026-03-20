@@ -156,10 +156,12 @@
 | [0222-count-complete-tree-nodes](https://github.com/Param3840/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Param3840/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Param3840/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/Param3840/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Param3840/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Param3840/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Param3840/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Param3840/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Param3840/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/Param3840/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Stack
 |  |
 | ------- |
