@@ -17,6 +17,7 @@
 | [0040-combination-sum-ii](https://github.com/Param3840/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/Param3840/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Param3840/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Param3840/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Param3840/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Param3840/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Param3840/LeetCode/tree/master/0120-triangle) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Param3840/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Param3840/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Param3840/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Param3840/LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Param3840/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Matrix
@@ -140,6 +142,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Param3840/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Param3840/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Param3840/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
