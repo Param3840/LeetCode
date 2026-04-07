@@ -36,6 +36,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Param3840/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Param3840/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1929-concatenation-of-array](https://github.com/Param3840/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2737-row-with-maximum-ones](https://github.com/Param3840/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Param3840/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Param3840/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
