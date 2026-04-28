@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/Param3840/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Param3840/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Param3840/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Param3840/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Param3840/LeetCode/tree/master/0046-permutations) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Param3840/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Param3840/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Param3840/LeetCode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Param3840/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Param3840/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -126,6 +128,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Param3840/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Param3840/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Param3840/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Param3840/LeetCode/tree/master/0046-permutations) |
@@ -135,6 +138,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Param3840/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Param3840/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Param3840/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Param3840/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
