@@ -61,6 +61,7 @@
 | [0009-palindrome-number](https://github.com/Param3840/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Param3840/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Param3840/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Param3840/LeetCode/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Param3840/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Param3840/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Param3840/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Param3840/LeetCode/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Param3840/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Param3840/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Param3840/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
