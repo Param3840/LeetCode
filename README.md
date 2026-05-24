@@ -36,6 +36,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Param3840/LeetCode/tree/master/0645-set-mismatch) |
 | [0907-koko-eating-bananas](https://github.com/Param3840/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Param3840/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Param3840/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Param3840/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -126,6 +127,7 @@
 | [0120-triangle](https://github.com/Param3840/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Param3840/LeetCode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Param3840/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Param3840/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0063-unique-paths-ii](https://github.com/Param3840/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Param3840/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Param3840/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Param3840/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [2737-row-with-maximum-ones](https://github.com/Param3840/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
