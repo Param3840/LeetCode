@@ -34,6 +34,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Param3840/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Param3840/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Param3840/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Param3840/LeetCode/tree/master/0645-set-mismatch) |
 | [0907-koko-eating-bananas](https://github.com/Param3840/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Param3840/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -58,6 +59,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Param3840/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Param3840/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Param3840/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Param3840/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Param3840/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Param3840/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Param3840/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
