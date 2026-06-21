@@ -18,6 +18,7 @@
 | [0040-combination-sum-ii](https://github.com/Param3840/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Param3840/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Param3840/LeetCode/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Param3840/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Param3840/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Param3840/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Param3840/LeetCode/tree/master/0078-subsets) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Param3840/LeetCode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Param3840/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Param3840/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Param3840/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Param3840/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -294,6 +296,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Param3840/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Param3840/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Param3840/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
