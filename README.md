@@ -272,6 +272,7 @@
 | [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Param3840/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Param3840/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -335,4 +336,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Param3840/LeetCode/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
