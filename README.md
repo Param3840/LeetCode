@@ -278,6 +278,7 @@
 | [0409-longest-palindrome](https://github.com/Param3840/LeetCode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2299-strong-password-checker-ii](https://github.com/Param3840/LeetCode/tree/master/2299-strong-password-checker-ii) |
 ## Design
 |  |
 | ------- |
