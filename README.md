@@ -52,6 +52,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Param3840/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Param3840/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Param3840/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Param3840/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1929-concatenation-of-array](https://github.com/Param3840/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2737-row-with-maximum-ones](https://github.com/Param3840/LeetCode/tree/master/2737-row-with-maximum-ones) |
@@ -282,6 +283,7 @@
 | [0409-longest-palindrome](https://github.com/Param3840/LeetCode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Param3840/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2299-strong-password-checker-ii](https://github.com/Param3840/LeetCode/tree/master/2299-strong-password-checker-ii) |
 ## Design
 |  |
