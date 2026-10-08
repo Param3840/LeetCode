@@ -256,6 +256,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Param3840/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Param3840/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/Param3840/LeetCode/tree/master/1544-make-the-string-great) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,6 +287,7 @@
 | [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/Param3840/LeetCode/tree/master/0899-orderly-queue) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Param3840/LeetCode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Param3840/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2299-strong-password-checker-ii](https://github.com/Param3840/LeetCode/tree/master/2299-strong-password-checker-ii) |
 ## Design
