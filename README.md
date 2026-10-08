@@ -81,6 +81,7 @@
 | [0069-sqrtx](https://github.com/Param3840/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Param3840/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Param3840/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0899-orderly-queue](https://github.com/Param3840/LeetCode/tree/master/0899-orderly-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0075-sort-colors](https://github.com/Param3840/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Param3840/LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Param3840/LeetCode/tree/master/0645-set-mismatch) |
+| [0899-orderly-queue](https://github.com/Param3840/LeetCode/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Param3840/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Param3840/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -282,6 +284,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Param3840/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Param3840/LeetCode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
+| [0899-orderly-queue](https://github.com/Param3840/LeetCode/tree/master/0899-orderly-queue) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Param3840/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2299-strong-password-checker-ii](https://github.com/Param3840/LeetCode/tree/master/2299-strong-password-checker-ii) |
@@ -351,4 +354,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Param3840/LeetCode/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
