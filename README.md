@@ -289,6 +289,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Param3840/LeetCode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Param3840/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Param3840/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2299-strong-password-checker-ii](https://github.com/Param3840/LeetCode/tree/master/2299-strong-password-checker-ii) |
 ## Design
 |  |
@@ -336,6 +337,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Param3840/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Param3840/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Param3840/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Memoization
 |  |
 | ------- |
