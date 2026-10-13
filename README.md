@@ -286,6 +286,7 @@
 | [0257-binary-tree-paths](https://github.com/Param3840/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Param3840/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Param3840/LeetCode/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/Param3840/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/Param3840/LeetCode/tree/master/0899-orderly-queue) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
