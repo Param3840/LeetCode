@@ -367,4 +367,8 @@
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/Param3840/LeetCode/tree/master/0899-orderly-queue) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Param3840/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
