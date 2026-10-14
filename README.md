@@ -42,6 +42,7 @@
 | [0645-set-mismatch](https://github.com/Param3840/LeetCode/tree/master/0645-set-mismatch) |
 | [0907-koko-eating-bananas](https://github.com/Param3840/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Param3840/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Param3840/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Param3840/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Param3840/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Param3840/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -289,6 +290,7 @@
 | [0520-detect-capital](https://github.com/Param3840/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Param3840/LeetCode/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/Param3840/LeetCode/tree/master/0899-orderly-queue) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Param3840/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Param3840/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Param3840/LeetCode/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Param3840/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -373,4 +375,8 @@
 | [0584-find-customer-referee](https://github.com/Param3840/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Param3840/LeetCode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Param3840/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Param3840/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
